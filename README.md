@@ -3,8 +3,9 @@
 ### Agile Strategy & Transformation | Project Manager | Scrum Master| Proxy Product Owner | Agile Leader
 
 
-![Agile Data Flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXpueXF3eXpueXF3eXpueXF3eXpueXF3eXpueXF3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<p align="left">
+  <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/hacker.gif" width="400" alt="Coding Animation">
+</p>
 
 [![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Click_Here-blueviolet?style=for-the-badge&logo=rocket)](https://pmoksana.github.io/Portfolio-PM-PSM-PAL/)
 
@@ -26,8 +27,7 @@
 | ![PAL I](https://img.shields.io/badge/Scrum.org-PAL_I-006699?style=for-the-badge)  | ![PSM I](https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-Data_Science_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 | **Agile Leadership**  | **Scrum Master**  | **OCI Data Science**  | **AWS Cloud Practitioner**  | 
 
----
-![Agile Metrics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXpueXF3eXpueXF3eXpueXF3eXpueXF3eXpueXF3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ---
 
 ## 🚀 Transformation & Coaching Flexibility
