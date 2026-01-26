@@ -51,9 +51,9 @@ I specialize in the lifecycle of team maturity, moving away from rigid oversight
 ## 🛠️ Tech Stack & Learning Path
 I am an active self-learner in **Data Science** and **Cloud Infrastructure**, ensuring I can "speak the language" of the squads I lead..
 
-* [cite_start]**Management:** Jira, Azure DevOps, ClickUp, Asana, Confluence.
-* [cite_start]**Data & AI:** SQL, Tableau, Power BI, AWS Redshift, Jupyter Notebooks.
-* [cite_start]**Ecosystems:** Salesforce  (100+ epics/stories managed).
+* **Management:** Jira, Azure DevOps, ClickUp, Asana, Confluence.
+* **Data & AI:** SQL, Tableau, Power BI, AWS Redshift, Jupyter Notebooks.
+* **Ecosystems:** Salesforce  (100+ epics/stories managed).
 
 
 ---
@@ -69,12 +69,16 @@ I am an active self-learner in **Data Science** and **Cloud Infrastructure**, en
 ## 🛠 Tech Stack & Tools
 
 ### 🏗 Project Management & CRM
-[cite_start]![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) 
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) 
+
 ### 📈 Data & Analytics
-[cite_start]![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white) 
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white) 
 
 ### 🎨 Collaboration & Design
-[cite_start]![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)  
+
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)  
 
 ---
 
