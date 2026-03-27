@@ -8,7 +8,8 @@
 
 ---
 
-> Professional Agile Leader with 5 years of hybrid experience. I bridge the gap between business and teams.
+> Professional IT Leader with 5+ years of hybrid experience as a Project manager, Product Manager, Proxy Product owner. Data Science Enthusiast.
+I bridge the gap between business and teams.
 
 ---
 
@@ -21,7 +22,9 @@
 ##   Certifications
 | | | | |
 | :---: | :---: | :---: | :---: |
-| ![PAL I](https://www.credly.com/badges/e95fa802-58e6-4145-a830-e1ae42e28293/public_url)  | ![PSM I]([https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=for-the-badge](https://www.credly.com/badges/0adcae72-5cd0-46c3-ad04-a117162b5eb9/public_url)) | ![AWS](https://www.credly.com/badges/77c7532f-a6be-43d4-bf8b-55e50dd50837/public_url) | ![Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1616454E45C1D963F9B7B72E5630E047AA586F75AB555BDC4F8B1FDF93EFC061) | ![Cisco Security] (<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af760351-f2f7-4417-9001-d94825d75f6b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>) |
+| Agile Leadership | Scrum Master | OCI Data Science | AWS Cloud Practitioner | Cisco Security |
+| :---: | :---: | :---: | :---: | :---: |
+| [![PAL I](https://img.shields.io/badge/Scrum.org-PAL_I-006699?style=flat&logo=scrum.org)](https://www.credly.com/badges/e95fa802-58e6-4145-a830-e1ae42e28293/) | [![PSM I](https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=flat&logo=scrum.org)](https://www.credly.com/badges/0adcae72-5cd0-46c3-ad04-a117162b5eb9/) | [![Oracle](https://img.shields.io/badge/Oracle-Data_Science-F80000?style=flat&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1616454E45C1D963F9B7B72E5630E047AA586F75AB555BDC4F8B1FDF93EFC061) | [![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/77c7532f-a6be-43d4-bf8b-55e50dd50837/) | [![Cisco](https://img.shields.io/badge/Cisco-Security-118811?style=flat&logo=cisco)](https://www.credly.com/badges/af760351-f2f7-4417-9001-d94825d75f6b/) |
 | **Agile Leadership**  | **Scrum Master**  | **OCI Data Science**  | **AWS Cloud Practitioner**  | **Cisco Security**
 
 
