@@ -3,9 +3,6 @@
 ### Agile Strategy & Transformation | Project Manager | Scrum Master| Proxy Product Owner | Agile Leader
 
 
-<p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/hacker.gif" width="400" alt="Coding Animation">
-</p>
 
 [![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Click_Here-blueviolet?style=for-the-badge&logo=rocket)](https://pmoksana.github.io/Portfolio-PM-PSM-PAL/)
 
@@ -24,8 +21,8 @@
 ##   Certifications
 | | | | |
 | :---: | :---: | :---: | :---: |
-| ![PAL I](https://img.shields.io/badge/Scrum.org-PAL_I-006699?style=for-the-badge)  | ![PSM I](https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-Data_Science_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
-| **Agile Leadership**  | **Scrum Master**  | **OCI Data Science**  | **AWS Cloud Practitioner**  | 
+| ![PAL I](https://www.credly.com/badges/e95fa802-58e6-4145-a830-e1ae42e28293/public_url)  | ![PSM I]([https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=for-the-badge](https://www.credly.com/badges/0adcae72-5cd0-46c3-ad04-a117162b5eb9/public_url)) | ![AWS](https://www.credly.com/badges/77c7532f-a6be-43d4-bf8b-55e50dd50837/public_url) | ![Oracle](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1616454E45C1D963F9B7B72E5630E047AA586F75AB555BDC4F8B1FDF93EFC061) | ![Cisco Security] (<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af760351-f2f7-4417-9001-d94825d75f6b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>) |
+| **Agile Leadership**  | **Scrum Master**  | **OCI Data Science**  | **AWS Cloud Practitioner**  | **Cisco Security**
 
 
 ---
