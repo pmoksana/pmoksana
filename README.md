@@ -19,13 +19,27 @@ I bridge the gap between business and teams.
 
 ---
 
-##   Certifications
-| | | | |
-| :---: | :---: | :---: | :---: |
-| Agile Leadership | Scrum Master | OCI Data Science | AWS Cloud Practitioner | Cisco Security |
-| :---: | :---: | :---: | :---: | :---: |
-| [![PAL I](https://img.shields.io/badge/Scrum.org-PAL_I-006699?style=flat&logo=scrum.org)](https://www.credly.com/badges/e95fa802-58e6-4145-a830-e1ae42e28293/) | [![PSM I](https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=flat&logo=scrum.org)](https://www.credly.com/badges/0adcae72-5cd0-46c3-ad04-a117162b5eb9/) | [![Oracle](https://img.shields.io/badge/Oracle-Data_Science-F80000?style=flat&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1616454E45C1D963F9B7B72E5630E047AA586F75AB555BDC4F8B1FDF93EFC061) | [![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/77c7532f-a6be-43d4-bf8b-55e50dd50837/) | [![Cisco](https://img.shields.io/badge/Cisco-Security-118811?style=flat&logo=cisco)](https://www.credly.com/badges/af760351-f2f7-4417-9001-d94825d75f6b/) |
-| **Agile Leadership**  | **Scrum Master**  | **OCI Data Science**  | **AWS Cloud Practitioner**  | **Cisco Security**
+
+### Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e95fa802-58e6-4145-a830-e1ae42e28293/">
+    <img src="https://img.shields.io/badge/Scrum.org-PAL_I-006699?style=for-the-badge&logo=scrum.org&logoColor=white" alt="Agile Leadership">
+  </a>
+  <a href="https://www.credly.com/badges/0adcae72-5cd0-46c3-ad04-a117162b5eb9/">
+    <img src="https://img.shields.io/badge/Scrum.org-PSM_I-006699?style=for-the-badge&logo=scrum.org&logoColor=white" alt="Scrum Master">
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1616454E45C1D963F9B7B72E5630E047AA586F75AB555BDC4F8B1FDF93EFC061">
+    <img src="https://img.shields.io/badge/Oracle-OCI_Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science">
+  </a>
+  <a href="https://www.credly.com/badges/77c7532f-a6be-43d4-bf8b-55e50dd50837/">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/af760351-f2f7-4417-9001-d94825d75f6b/">
+    <img src="https://img.shields.io/badge/Cisco-Security-118811?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Security">
+  </a>
+</p>
+
 
 
 ---
